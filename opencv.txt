@@ -1,0 +1,2 @@
+# For who need opencv 4 with createsamples app
+alivara/ubuntu-opencv-4-createsamples
